@@ -17,3 +17,6 @@ test-results/
 public/
 *.swp
 *.orig
+*.pid
+*.seed
+*.tgz
