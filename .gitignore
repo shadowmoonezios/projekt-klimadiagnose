@@ -11,3 +11,4 @@ dist/
 *.bak
 *.swp
 .DS_Store
+.cache/
