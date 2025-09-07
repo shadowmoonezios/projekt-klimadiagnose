@@ -9,3 +9,5 @@ logs/
 dist/
 *.tmp
 *.bak
+*.swp
+.DS_Store
