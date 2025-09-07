@@ -16,3 +16,4 @@ dist/
 test-results/
 public/
 *.swp
+*.orig
