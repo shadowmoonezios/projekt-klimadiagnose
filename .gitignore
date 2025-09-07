@@ -9,9 +9,7 @@ logs/
 dist/
 *.tmp
 *.bak
-*.swp
 .DS_Store
 .cache/
 .vscode/
 test-results/
-temp/
