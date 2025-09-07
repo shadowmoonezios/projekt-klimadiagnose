@@ -9,3 +9,5 @@ logs/
 dist/
 *.tmp
 *.temp
+*.bak
+*.old
