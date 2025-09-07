@@ -13,3 +13,4 @@ dist/
 .DS_Store
 .cache/
 .vscode/
+test-results/
