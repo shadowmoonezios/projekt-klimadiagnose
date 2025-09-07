@@ -6,6 +6,7 @@ build/
 coverage/
 logs/
 *.log
+npm-debug.log
 dist/
 *.tmp
 *.bak
